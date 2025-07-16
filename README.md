@@ -95,7 +95,7 @@ Analista e Desenvolvedor de Sistemas
   <br><br>
 
   [![Email](https://img.shields.io/badge/Email-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:willams502@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-willams/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/matheus-willams/](https://www.linkedin.com/in/matheuswillams/))
   [![GitHub](https://img.shields.io/badge/GitHub-050f2c?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/WILLAMS502)
 
 </div>
