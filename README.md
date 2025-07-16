@@ -22,12 +22,11 @@ Analista e Desenvolvedor de Sistemas
   <img src="https://imgur.com/SGR1Rrh.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/WILLAMS502-black" />
+  <img src="https://img.shields.io/badge/Bear-black" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=Sou+de+Belo+Horizonte,+MG;Analista+e+Desenvolvedor+de+Sistemas;Experiência+em+PHP,+Laravel,+Bootstrap,+SQL;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D990B&width=435&lines=Sou+de+Belo+Horizonte%2C+MG;Analista+e+Desenvolvedor+de+Sistemas;Experi%C3%AAncia+em+PHP%2C+Laravel%2C+Codeigniter%2C+SQL%2C+Python%2C+Pentest;Seja+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a></div>
 
 <br>
 
@@ -69,8 +68,19 @@ Analista e Desenvolvedor de Sistemas
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="70" src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,git,github,vscode,figma" />
-</div>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>>
 
 <br>
 
