@@ -69,7 +69,7 @@ Analista e Desenvolvedor de Sistemas
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,git,github,vscode,figma" />
+  <img width="70" src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,git,github,vscode,figma" />
 </div>
 
 <br>
