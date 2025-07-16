@@ -1,27 +1,108 @@
-- 👋 Oi, eu sou Matheus Willams mas sou conhecido como Ratel nos jogos.
-- 👀 Estudante de pentester e gamer developer....
-- 🌱 Visite o meu Portfólio willamsdev.netlify.app
-- 💞️ Programador front-end ...
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
 <div align="center">
-  <a href="https://willamsdev.netlify.app/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willams502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willams502&layout=compact&langs_count=7&theme=tokyonight"/>
+  <samp>
+    <b>
+      👨‍💻       システムアナリスト
+Analista e Desenvolvedor de Sistemas
+    </b>
+    <br>
+    Olá! Eu sou Matheus Willams
+    <br>
+  </samp>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/84189241?s=400&u=2e693300e2260ce9c742a030b4c9b8341007a82f&v=4">
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWILLAMS502&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://imgur.com/SGR1Rrh.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/WILLAMS502-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=Sou+de+Belo+Horizonte,+MG;Analista+e+Desenvolvedor+de+Sistemas;Experiência+em+PHP,+Laravel,+Bootstrap,+SQL;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+    <samp>
+      <b>Mais sobre mim</b>
+    </samp>
+  </summary>
   
-  <div> 
-  <a href="https://www.instagram.com/rateldev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rattellll" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus-willams-dev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-willams-b7a2891a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <br>
+
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=WILLAMS502&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLAMS502&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+  />
+  <br><br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLAMS502&theme=algolia"
+  />
+  <br><br>
+  <img
+    height=154
+    align="center"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=WILLAMS502&theme=algolia&card_width=885"
+  />
 </div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,git,github,vscode,figma" />
+</div>
+
+<br>
+
+##
+
+<div align="center">
+  <samp>
+    <b>
+      Entre em contato comigo:
+    </b>
+  </samp>
+  <br><br>
+
+  [![Email](https://img.shields.io/badge/Email-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:willams502@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-willams/)
+  [![GitHub](https://img.shields.io/badge/GitHub-050f2c?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/WILLAMS502)
+
+</div>
+
+<div align="center">
+  <p align="center">
+    <samp>
+      ♢ <a href="https://willamsdev.netlify.app">Portfolio</a> ⊹
+      <a href="https://github.com/WILLAMS502">GitHub</a> ♢
+    </samp>
+  </p>
+</div>
+
+##
+
+</details>
+
+<br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
