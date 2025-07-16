@@ -13,7 +13,7 @@ Analista e Desenvolvedor de Sistemas
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWILLAMS502&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><div class="tenor-gif-embed" data-postid="17016117837564059808" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/snorlax-ohayo-transparent-gif-17016117837564059808">Snorlax Ohayo Transparent Sticker</a>from <a href="https://tenor.com/search/snorlax+ohayo+transparent-stickers">Snorlax Ohayo Transparent Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p> 
 </div>
 
 <br><br>
