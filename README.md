@@ -9,7 +9,6 @@
 
   <p>
     Belo Horizonte, MG<br>
-    <code>[SISTEMA: MONARCA DAS SOMBRAS]</code>
   </p>
 
   <a href="https://willams502.github.io/portfolio/">
