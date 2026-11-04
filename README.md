@@ -1,118 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5B2A86&fontColor=FFFFFF"/>
 
 <div align="center">
   <samp>
-    <b>
-      👨‍💻       システムアナリスト
-Analista e Desenvolvedor de Sistemas
-    </b>
+    <h1>👻 Olá! Eu sou Matheus Willams 💜</h1>
+    <b>Analista e Desenvolvedor de Sistemas</b>
     <br>
-    Olá! Eu sou Matheus Willams
-    <br>
+    Belo Horizonte, MG
   </samp>
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWILLAMS502&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <br>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWILLAMS502&s=21&c=B57BFF&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" alt="Contador de visitas ao perfil" />
 </div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://media.tenor.com/7CVlBJwxoKAAAAAi/snorlax-ohayo-transparent.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Bear-black" />
-</div>
-
-<div align="center" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D990B&width=435&lines=Sou+de+Belo+Horizonte%2C+MG;Analista+e+Desenvolvedor+de+Sistemas;Experi%C3%AAncia+em+PHP%2C+Laravel%2C+Codeigniter%2C+SQL%2C+Python%2C+Pentest;Seja+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a></div>
 
 <br>
 
-<details align="center">  
-  <summary>
-    <samp>
-      <b>Mais sobre mim</b>
-    </samp>
-  </summary>
-  
+<div align="center">
+  <samp>🟣 Código, criatividade e um toque fantasmagórico 👻</samp>
+  <br><br>
+  <a href="https://willams502.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Conheça%20meu%20portfólio-5B2A86?style=for-the-badge&logo=github&logoColor=white" alt="Meu portfólio" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B57BFF&center=true&width=600&lines=Sou+de+Belo+Horizonte%2C+MG;Analista+e+Desenvolvedor+de+Sistemas;Trabalho+com+PHP%2C+Laravel%2C+CodeIgniter%2C+SQL+e+Python;Seja+bem-vindo+ao+meu+GitHub!" alt="Apresentação animada" />
+  </a>
+</div>
+
+<br>
+
+<details align="center">
+  <summary><b>💜 Mais sobre mim 👻</b></summary>
+
   <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=WILLAMS502&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLAMS502&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
-  />
-  <br><br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLAMS502&theme=algolia"
-  />
-  <br><br>
-  <img
-    height=154
-    align="center"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=WILLAMS502&theme=algolia&card_width=885"
-  />
-</div>
+  <div align="center">
+    <img
+      height="165"
+      alt="Estatísticas do GitHub"
+      src="https://github-readme-stats.vercel.app/api/?username=WILLAMS502&show_icons=true&count_private=true&rank_icon=github&theme=dracula"
+    />
+    <img
+      height="165"
+      alt="Linguagens mais utilizadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLAMS502&layout=compact&langs_count=10&theme=dracula"
+    />
+    <br><br>
+    <img
+      alt="Resumo do perfil"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLAMS502&theme=dracula"
+    />
+    <br><br>
+    <img
+      height="165"
+      alt="Sequência de contribuições"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=WILLAMS502&theme=dracula"
+    />
+  </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
-</div>>
+  <br>
+
+  <div align="center">
+    <b>🛠️ Tecnologias e ferramentas</b>
+    <br><br>
+    <img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+    <img width="40" alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+    <img width="40" alt="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+    <img width="40" alt="CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+    <img width="40" alt="Bootstrap" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+    <img width="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
+    <img width="40" alt="Arduino" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+    <img width="40" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+    <img width="40" alt="MATLAB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
+    <img width="40" alt="Photoshop" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+    <img width="40" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  </div>
+
+  <br>
+
+  <div align="center">
+    <b>📬 Entre em contato</b>
+    <br><br>
+    <a href="mailto:willams502@outlook.com">
+      <img src="https://img.shields.io/badge/Email-5B2A86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/matheuswillams/">
+      <img src="https://img.shields.io/badge/LinkedIn-5B2A86?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/WILLAMS502">
+      <img src="https://img.shields.io/badge/GitHub-5B2A86?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <a href="https://willams502.github.io/portfolio/">🌐 Portfólio</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/WILLAMS502">👨‍💻 GitHub</a>
+  </div>
+</details>
 
 <br>
 
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Entre em contato comigo:
-    </b>
-  </samp>
-  <br><br>
-
-  [![Email](https://img.shields.io/badge/Email-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:willams502@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/matheus-willams/](https://www.linkedin.com/in/matheuswillams/))
-  [![GitHub](https://img.shields.io/badge/GitHub-050f2c?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/WILLAMS502)
-
-</div>
-
-<div align="center">
-  <p align="center">
-    <samp>
-      ♢ <a href="https://willamsdev.netlify.app">Portfolio</a> ⊹
-      <a href="https://github.com/WILLAMS502">GitHub</a> ♢
-    </samp>
-  </p>
-</div>
-
-##
-
-</details>
-
-<br><br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5B2A86&height=120&section=footer"/>
