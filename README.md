@@ -73,11 +73,11 @@ Sou **Analista e Desenvolvedor de Sistemas** em Belo Horizonte, MG, focado em co
 - **Destaques:** Interface responsiva tematizada, navegação fluida por componentes e deploy automatizado.
 - **Links:** [Repositório](https://github.com/willams502/portfolio) · [Acessar Demo](https://willams502.github.io/portfolio/)
 
-### 2. 🧩 [Rede Chromos Matcher](https://github.com/willams502/Desafio-Chromos-v2-)
-- **Problema resolvido:** Cruzamento e identificação automatizada de alunos aprovados a partir de dados em planilhas/CSV.
-- **Tecnologias:** PHP, Laravel, SQLite/SQL, CSV.
-- **Destaques:** Processamento de dados cadastrais, lógica de correspondência e estrutura MVC organizada.
-- **Link:** [Repositório](https://github.com/willams502/Desafio-Chromos-v2-)
+### 2. 🧊 [Varzhun 3D ERP](https://github.com/willams502/varzhun-erp)
+- **Problema resolvido:** Centralizar vendas, orçamentos, calculadora de custos 3D, produção em Kanban, estoque, impressoras e financeiro de empresas de impressão 3D.
+- **Tecnologias:** PHP 8+, MySQL/SQLite, JavaScript (SPA), Chart.js, REST API.
+- **Destaques:** Arquitetura modular multi-empresa (`tenant_id`), RBAC com 5 perfis, baixa automática de estoque e testes de integração.
+- **Links:** [Repositório](https://github.com/willams502/varzhun-erp) · [Acessar Sistema](http://vharzun.ct.ws/)
 
 ### 3. 🐱 [Operação Gata](https://github.com/willams502/operacao-gata)
 - **Problema resolvido:** Jogo narrativo 2D em pixel art demonstrando arquitetura de cenas, diálogos e controle de estado no navegador.
