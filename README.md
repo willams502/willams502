@@ -6,14 +6,17 @@
 
   # Matheus Willams
 
-  ### 👻 Analista e Desenvolvedor de Sistemas
+  ### 👻 Desenvolvedor Full Stack Júnior | Analista e Desenvolvedor de Sistemas
 
-  **Full Stack Developer | React | JavaScript | Python**
+  **React · JavaScript · Python · PHP · Laravel · PostgreSQL**
 
   📍 Belo Horizonte, MG, Brasil
 
   <a href="https://willams502.github.io/portfolio/">
     <img src="https://img.shields.io/badge/MEU%20PORTF%C3%93LIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheuswillams/">
+    <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <br><br>
@@ -26,7 +29,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es;Desenvolvimento+Full+Stack;React+%7C+JavaScript+%7C+Python+%7C+PostgreSQL;Construindo+o+pr%C3%B3ximo+projeto" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+reais;Desenvolvimento+Full+Stack+J%C3%BAnior;React+%7C+JavaScript+%7C+Python+%7C+PHP+%7C+PostgreSQL" />
 
 </div>
 
@@ -34,63 +37,66 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Analista e Desenvolvedor de Sistemas, de Belo Horizonte, MG. Tenho interesse em desenvolvimento de software, criação de aplicações web e automação de processos.
+Sou **Analista e Desenvolvedor de Sistemas** em Belo Horizonte, MG, focado em construir aplicações web completas, interfaces interativas e automações que resolvem problemas reais.
 
-Gosto de transformar ideias em soluções funcionais, desenvolver projetos próprios e explorar tecnologias que resolvam problemas reais.
+- ⚛️ **Frontend:** Interfaces responsivas e interativas com React, JavaScript, HTML5 e CSS3.
+- ⚙️ **Backend & APIs:** Desenvolvimento de regras de negócio e APIs REST com PHP, Laravel, Python e Node.js.
+- 🗄️ **Banco de Dados:** Modelagem relacional e consultas otimizadas em PostgreSQL, MySQL e SQLite.
+- 🤖 **Automação:** Scripts e bots em Python para processamento de dados, PDFs e fluxos operacionais.
 
-- 💻 Desenvolvimento de aplicações web.
-- ⚛️ Interfaces com React e JavaScript.
-- 🐍 Desenvolvimento e automação com Python.
-- 🗄️ Modelagem e gerenciamento de bancos de dados PostgreSQL.
-- 🚀 Aprimoramento contínuo em desenvolvimento Full Stack.
+---
 
-🌐 Confira meus projetos no [meu portfólio](https://willams502.github.io/portfolio/).
-
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 ### Frontend
-
 <div>
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </div>
 
-### Backend
-
+### Backend & Banco de Dados
 <div>
-  <img height="40" src="https://skillicons.dev/icons?i=python,php,laravel,nodejs" />
-</div>
-
-### Banco de dados
-
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img height="40" src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,postgres,mysql,sqlite" />
 </div>
 
 ### Ferramentas
-
 <div>
   <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </div>
 
+---
+
 ## 🚀 Projetos em destaque
 
-> Espaço reservado para apresentar aplicações e projetos desenvolvidos.
+### 1. 🎮 [Portfólio Interativo (Solo Leveling x Gengar)](https://github.com/willams502/portfolio)
+- **Problema resolvido:** Apresentar projetos e habilidades de forma interativa e memorável para recrutadores.
+- **Tecnologias:** React, Vite, JavaScript, CSS3.
+- **Destaques:** Interface responsiva tematizada, navegação fluida por componentes e deploy automatizado.
+- **Links:** [Repositório](https://github.com/willams502/portfolio) · [Acessar Demo](https://willams502.github.io/portfolio/)
 
-### 🖥️ Projeto 01 — [Nome do projeto]
+### 2. 🧩 [Rede Chromos Matcher](https://github.com/willams502/Desafio-Chromos-v2-)
+- **Problema resolvido:** Cruzamento e identificação automatizada de alunos aprovados a partir de dados em planilhas/CSV.
+- **Tecnologias:** PHP, Laravel, SQLite/SQL, CSV.
+- **Destaques:** Processamento de dados cadastrais, lógica de correspondência e estrutura MVC organizada.
+- **Link:** [Repositório](https://github.com/willams502/Desafio-Chromos-v2-)
 
-- **Descrição:** Apresente o problema que o projeto resolve.
-- **Tecnologias:** React, JavaScript, PostgreSQL.
-- **Destaques:** Principais funcionalidades e soluções implementadas.
-- **Repositório:** [Ver código](LINK_DO_REPOSITORIO)
-- **Demonstração:** [Acessar aplicação](LINK_DA_DEMO)
+### 3. 🐱 [Operação Gata](https://github.com/willams502/operacao-gata)
+- **Problema resolvido:** Jogo narrativo 2D em pixel art demonstrando arquitetura de cenas, diálogos e controle de estado no navegador.
+- **Tecnologias:** JavaScript, HTML5 Canvas, CSS3.
+- **Destaques:** Sistema de progressão, diálogos interativos e persistência local de progresso.
+- **Link:** [Repositório](https://github.com/willams502/operacao-gata)
 
-### ⚙️ Projeto 02 — [Nome do projeto]
+### 4. 🐸 [FrogJump](https://github.com/willams502/frogjump)
+- **Problema resolvido:** Jogo arcade multiplataforma para Web e Android/Mobile a partir de uma única base de código.
+- **Tecnologias:** JavaScript, HTML5 Canvas, Capacitor, PWA.
+- **Destaques:** Sistema de pontuação/recordes, loja de skins, áudio integrado e empacotamento mobile.
+- **Link:** [Repositório](https://github.com/willams502/frogjump)
 
-- **Descrição:** Apresente o objetivo da aplicação.
-- **Tecnologias:** Python, PostgreSQL.
-- **Destaques:** Funcionalidades e recursos principais.
-- **Repositório:** [Ver código](LINK_DO_REPOSITORIO)
-- **Demonstração:** [Acessar aplicação](LINK_DA_DEMO)
+### 5. 📄 [Tradutor de PDF](https://github.com/willams502/Tratudor-de-PDF)
+- **Problema resolvido:** Tradução automatizada de documentos PDF mantendo a leitura estruturada.
+- **Tecnologias:** Python, PyMuPDF, Deep Translator, FPDF.
+- **Link:** [Repositório](https://github.com/willams502/Tratudor-de-PDF)
+
+---
 
 ## 📊 Estatísticas do GitHub
 
@@ -98,13 +104,15 @@ Gosto de transformar ideias em soluções funcionais, desenvolver projetos próp
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=WILLAMS502&show_icons=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=07030e&border_color=5B21B6" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLAMS502&layout=compact&langs_count=10&title_color=A78BFA&text_color=E9D5FF&bg_color=07030e&border_color=5B21B6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILLAMS502&layout=compact&langs_count=8&title_color=A78BFA&text_color=E9D5FF&bg_color=07030e&border_color=5B21B6" />
 
   <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WILLAMS502&background=07030e&ring=8B5CF6&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&border=5B21B6" />
 
 </div>
+
+---
 
 ## 🌐 Vamos nos conectar?
 
@@ -139,4 +147,3 @@ Gosto de transformar ideias em soluções funcionais, desenvolver projetos próp
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5B21B6&section=footer" />
 
 </div>
-```
